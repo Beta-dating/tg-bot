@@ -1,2 +1,3 @@
 # tg-bot
-Telegram bot on aiogram-dialog
+- npm install
+- node index.js
